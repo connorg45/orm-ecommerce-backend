@@ -2,15 +2,14 @@
 
 ## Description
 
-This is a . *Disclaimer still in development*
-
+This is a project is a ecommerce backend that uses simple CRUD operations
 ## License
 
 Please refer to the LICENSE in the repo.
 
 ## Walkthrough
 
-[Video Walkthrough]()
+[Video Walkthrough](https://watch.screencastify.com/v/ldkEYq3X8zrtGRraV2Dj)
 
 # Links
 
